@@ -1,5 +1,9 @@
 # Blog Admin Dashboard  
 Frontend Developer Assessment
+## Deployment - Netlify
+```bash
+https://sprightly-madeleine-f19296.netlify.app
+```
 
 ## 📌 Overview
 This project is a **production-style Blog Admin Dashboard** built using modern frontend engineering principles.  
